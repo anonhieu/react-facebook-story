@@ -1,9 +1,11 @@
 # React Story Facebook
 
-## Installation
+## Hướng dẫn cài đặt
 
-Navigate to **chrome://extensions/** and click the "Load unpacked extension..." button. Navigate to and select this
-directory and reload Facebook tab.
+- Tải về và giải nén
+- Truy cập tiện ích chrome **chrome://extensions/**
+- Bật chế độ nhà phát triển
+- Tải lên Folder vừa giải nén
 
 ## Screenshot
 
